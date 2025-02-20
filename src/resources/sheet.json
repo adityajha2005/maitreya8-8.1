@@ -1,0 +1,109 @@
+{
+   "configs" : [
+      {
+         "name" : "Default",
+         "tablestyle" : {
+            "oddCellBgColor" : "#E9E1BB",
+            "cellBgMode" : 0,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#92BCD5",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#000000",
+            "useHeaderColors" : true,
+            "useGrid" : true,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#F1EBD3"
+         }
+      },
+      {
+         "name" : "Orange",
+         "tablestyle" : {
+            "oddCellBgColor" : "#E9E1BB",
+            "cellBgMode" : 0,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#DFB334",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#000000",
+            "useHeaderColors" : true,
+            "useGrid" : true,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#F1EBD3"
+         }
+      },
+      {
+         "name" : "Grey scale",
+         "tablestyle" : {
+            "oddCellBgColor" : "#D5D5D5",
+            "cellBgMode" : 2,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#C2C7C9",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#000000",
+            "useHeaderColors" : true,
+            "useGrid" : true,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#BFBFBF"
+         }
+      },
+      {
+         "name" : "Pastel",
+         "tablestyle" : {
+            "oddCellBgColor" : "#E9E1BB",
+            "cellBgMode" : 2,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#F8EB99",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#000000",
+            "useHeaderColors" : true,
+            "useGrid" : false,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#F1EBD3"
+         }
+      },
+      {
+         "name" : "Mint",
+         "tablestyle" : {
+            "oddCellBgColor" : "#DCF3CF",
+            "cellBgMode" : 2,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#B3F7A0",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#000000",
+            "useHeaderColors" : true,
+            "useGrid" : true,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#CAF48C"
+         }
+      },
+      {
+         "name" : "High contrast",
+         "tablestyle" : {
+            "oddCellBgColor" : "#E9E1BB",
+            "cellBgMode" : 0,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#000000",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#FFFFFF",
+            "useHeaderColors" : true,
+            "useGrid" : true,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#F1EBD3"
+         }
+      },
+      {
+         "name" : "White",
+         "tablestyle" : {
+            "oddCellBgColor" : "#E9E1BB",
+            "cellBgMode" : 0,
+            "cellTextColor" : "#000000",
+            "headerBgColor" : "#92BCD5",
+            "allCellBgColor" : "#EFEFD4",
+            "headerTextColor" : "#000000",
+            "useHeaderColors" : false,
+            "useGrid" : false,
+            "useCellColors" : true,
+            "evenCellBgColor" : "#F1EBD3"
+         }
+      }
+   ]
+}
